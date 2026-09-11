@@ -1,6 +1,6 @@
 //Srikar Kolli
 //zpu3sa
-//Homework 1 SDE
+//Homework 2 SDE
 
 package org.example;
 
